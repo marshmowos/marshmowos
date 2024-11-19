@@ -1,24 +1,24 @@
 <h1 align="center">Hey there! 👋</h1>
-<p align="center">Welcome to my GitHub profile! I’m <strong>[Your Name]</strong>, a curious mind who loves turning ideas into reality through code.</p>
+<p align="center">Welcome to my GitHub profile! I’m <strong>Emily</strong>, a curious mind who loves turning ideas into reality through code.</p>
 
 ---
 
 ### 🖋️ About Me:
 ✨ **Who am I?**  
-I’m a [your role/interest] passionate about building [your focus, e.g., sleek web applications, impactful open-source projects, etc.].
+I’m a back-end developer passionate about creating projects, and helping people.
 
 ✨ **What drives me?**  
 A love for **learning**, **creating**, and tackling **new challenges** every day.
 
 ✨ **Current Focus**  
-I’m diving into **[current area of interest, e.g., cloud computing, machine learning, etc.]** to expand my expertise.
+I’m diving into **C++/C#** to expand my expertise.
 
 ---
 
 ### 🌟 A Few Fun Facts:
-- 🌌 I find inspiration in **[something personal, e.g., nature, sci-fi, art]**.  
-- ☕ Coffee (or tea?) is my fuel for productivity!  
-- 🎯 Always up for **[your favorite hobby or quirky skill]**.
+- 🌌 I find inspiration in **seeing results and improvement**.  
+- ☕ Monster (or tea?) is my fuel for productivity!  
+- 🎯 Always up for **a game of chess**.
 
 ---
 
