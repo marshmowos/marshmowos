@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋</h1>
-<p align="center">Welcome to my GitHub profile! I’m <strong>Emily</strong>, a curious mind who loves turning ideas into reality through code.</p>
+<p align="center">Welcome to my GitHub profile! I’m <strong>Emily</strong>, a self-taught developer who loves problem solving and challenges.</p>
 
 ---
 
