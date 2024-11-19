@@ -23,9 +23,9 @@ I’m diving into **C++/C#** to expand my expertise.
 ---
 
 <p align="center">
-  🌟 <strong>"Stay curious, stay humble, and always keep building."</strong> 🌟
+   <strong>"Stay curious, stay humble, and always keep building."</strong> 🔭
 </p>
 
 <p align="center">
-  Feel free to explore my projects and connect with me! 🚀
+  Feel free to explore my projects and connect with me! 💌
 </p>
